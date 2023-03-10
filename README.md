@@ -1,4 +1,4 @@
-# Natural language processing and web scraped for Lyric-artist Predictor
+# Lyric-artist Predictor by NLP and web scraped
 
 This project is a Natural Language Processing (NLP) and web scraping project that aims to predict an artist from a given set of lyrics. The project includes two scripts with command line interfaces, one for web scraping lyrics of any artist from [lyrics](https://www.lyrics.com/) website using Beautiful Soup and regular expressions and another for creating fancy word clouds from the scraped lyrics.
 
